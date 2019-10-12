@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_credit"
+            android:icon="@drawable/ic_give_money"
+            android:title="Advance Payment" />
+        <item
+            android:id="@+id/nav_cust"
+            android:icon="@drawable/ic_order"
+            android:title="Advance Statement" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_user"
+            android:title="Order" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_magnifier"
+            android:title="View Order" />
+
+        <item
+            android:id="@+id/nav_deliver"
+            android:icon="@drawable/ic_delivery_truck"
+            android:title="Invoice" />
+        <item
+            android:id="@+id/nav_receive"
+            android:icon="@drawable/ic_pencil"
+            android:title="Dispatch" />
+        <item
+            android:id="@+id/nav_tools"
+            android:icon="@drawable/ic_invoice"
+            android:title="Monthly Statement" />
+
+    </group>
+
+</menu>

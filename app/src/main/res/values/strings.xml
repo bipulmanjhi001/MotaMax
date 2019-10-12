@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mota Florona</string>
+    <string name="prompt_email">Enter your userid</string>
+    <string name="prompt_password">Enter your password</string>
+    <string name="action_sign_in">SIGN IN</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menu_home">New Register</string>
+    <string name="menu_gallery">Follow Up</string>
+    <string name="menu_slideshow">Search Now</string>
+    <string name="menu_tools">Order</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="submit">Submit</string>
+
+</resources>
